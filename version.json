@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
-  "download_url": "https://github.com/itexteams/updates/releases/download/0.0.1/Main.exe",
+  "version": "0.0.0",
+  "download_url": "https://github.com/itexteams/updates/releases/download/0.0.0/Main.exe",
   "changelog": "Cap nhat module de thi Toan, fix loi doc bieu do TikZ va ho tro QR Code cham thi."
 }
